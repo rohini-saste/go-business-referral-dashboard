@@ -192,29 +192,8 @@ vercel deploy
 - Safari (latest)
 - Edge (latest)
 
-## Contributing
 
-1. Create a feature branch (`git checkout -b feature/amazing-feature`)
-2. Commit your changes (`git commit -m 'Add amazing feature'`)
-3. Push to the branch (`git push origin feature/amazing-feature`)
-4. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Support
-
-For support, please contact: support@gobusiness.com
-
-## Changelog
-
-### Version 0.0.0 (Initial Release)
-- Initial project setup with React + Vite
-- Authentication system with JWT tokens
-- Referral management dashboard
-- Protected route implementation
-- Responsive UI with Ant Design components
 
 ---
 
